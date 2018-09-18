@@ -1,4 +1,4 @@
-baseURL = "http://bigblank.co/"
+baseURL = "https://bigblank.co/"
 languageCode = "en-us"
 title = "Big Blank Startup Studio"
 theme = "timer-hugo"
