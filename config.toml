@@ -28,7 +28,7 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "MAKE THE WORLD SMALLER"
+        heading = "WE MAKE THE WORLD SMALLER"
         description = "WE INVEST IN MOBILITY RELATED PROJECTS - BIGBLANK"
         btn     = false
         btnText = "Download More"
@@ -45,7 +45,7 @@ theme = "timer-hugo"
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT BIG BLANK"
+        title   = "ABOUT BIGBLANK"
         content = "Big Blank is a startup studio with one goal:  make the world smaller. We invest in mobility related projects, from logistics and transportation to travel entertainment."
         image   = "images/logo.png"
 
