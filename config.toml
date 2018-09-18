@@ -1,0 +1,72 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Contact us"
+        url     = "/contact"
+        weight  = 2
+    #[[menu.nav]]
+    #    name    = "Service"
+    #    url     = "/service"
+    #    weight  = 3
+
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo-sm.png"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "STARTUP STUDIO WITH A MEANING"
+        description = "WE CREATE AND GROW STARTUPS AND TEAMS"
+        btn     = false
+        btnText = "Download More"
+        btnURL  = "https://bigblank.co/"
+        [[params.banner.flipText]]
+            title   = "TRAVEL"
+        [[params.banner.flipText]]
+            title   = "TRANSPORTATION"
+        [[params.banner.flipText]]
+            title   = "TOURISM"
+        [[params.banner.flipText]]
+            title   = "DELIVERY "
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT ME"
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        image   = "images/logo.png"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "CONTACT US ?"
+        content = "If you are working on transportation subjects and want to join the team, we'd be happy to talk to you !"
+        btnText = "Contact us"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = false
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    # Feature Product Section
+    [params.featureProduct]
+        enable  = false
+        title   = "SOME OF OUR FEATURES WORKS"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    
