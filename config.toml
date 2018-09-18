@@ -28,8 +28,8 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "STARTUP STUDIO WITH A MEANING"
-        description = "WE CREATE AND GROW STARTUPS AND TEAMS"
+        heading = "MAKE THE WORLD SMALLER"
+        description = "WE INVEST IN MOBILITY RELATED PROJECTS - BIGBLANK"
         btn     = false
         btnText = "Download More"
         btnURL  = "https://bigblank.co/"
@@ -46,7 +46,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT BIG BLANK"
-        content = "Big Blank is a startup studio building great teams that work on projects with a meaning. We tackle travel and transportation issues, with our network of partners and strong influence in the market, with a core team representing years of experience in the field. If you are a Paris based entrepreneur searching for a new challenge, let's grab coffee."
+        content = "Big Blank is a startup studio with one goal:  make the world smaller. We invest in mobility related projects, from logistics and transportation to travel entertainment."
         image   = "images/logo.png"
 
     # Call to Action
