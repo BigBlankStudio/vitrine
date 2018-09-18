@@ -45,8 +45,8 @@ theme = "timer-hugo"
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        title   = "ABOUT BIG BLANK"
+        content = "Big Blank is a startup studio building great teams that work on projects with a meaning. We tackle travel and transportation issues, with our network of partners and strong influence in the market, with a core team representing years of experience in the field. If you are a Paris based entrepreneur searching for a new challenge, let's grab coffee."
         image   = "images/logo.png"
 
     # Call to Action
