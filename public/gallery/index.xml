@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gallery on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
-    <link>http://example.org/gallery/</link>
-    <description>Recent content in Gallery on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <title>Gallery on Big Blank Startup Studio</title>
+    <link>http://bigblank.co/gallery/</link>
+    <description>Recent content in Gallery on Big Blank Startup Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
     
-	<atom:link href="http://example.org/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bigblank.co/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
