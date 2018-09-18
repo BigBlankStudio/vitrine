@@ -9,7 +9,7 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "Contact us"
+        name    = "Contact Bigblank"
         url     = "/contact"
         weight  = 2
     #[[menu.nav]]

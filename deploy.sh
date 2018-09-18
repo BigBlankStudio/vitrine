@@ -7,6 +7,8 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
+# Pull if changes
+git pull
 # Add changes to git.
 git add .
 
